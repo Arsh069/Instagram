@@ -1,4 +1,2 @@
-# InstagramClone
-# InstagramClone
-# Instagram
+
 # Instagram
